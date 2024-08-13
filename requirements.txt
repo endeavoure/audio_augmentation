@@ -1,0 +1,4 @@
+numpy==1.26.4
+ffmpegio==0.10.0.post0
+ffmpegio-core==0.10.0
+click==8.1.7
