@@ -14,5 +14,5 @@ This project is intended for machine learning enthusiasts who want to reduce dis
 Before using CLI application, ensure you have all the libs from _requirements.txt_ installed.
 
 
-## Instructions for using {Project Name}
+## Instructions for using CLI application
 Get started with CLI application by running _augmentationCLI.py_ in terminal.
