@@ -1,4 +1,4 @@
-## CLI application for augmenting mono/stereo audio data
+## CLI application for augmentation mono/stereo audio data
 https://github.com/endeavoure/audio_augmentation by Alexander Knyshov
 
 ## Project description
